@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunConsola", "FunConsola\Fu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunFormulario", "FunFormulario\FunFormulario.csproj", "{A536C95C-1765-4B6B-9E65-DCBEB0193DD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWeb", "FunWeb\FunWeb.csproj", "{2129006C-E0DA-4A17-B3BF-2B193014C3B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A536C95C-1765-4B6B-9E65-DCBEB0193DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A536C95C-1765-4B6B-9E65-DCBEB0193DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A536C95C-1765-4B6B-9E65-DCBEB0193DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2129006C-E0DA-4A17-B3BF-2B193014C3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2129006C-E0DA-4A17-B3BF-2B193014C3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2129006C-E0DA-4A17-B3BF-2B193014C3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2129006C-E0DA-4A17-B3BF-2B193014C3B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
